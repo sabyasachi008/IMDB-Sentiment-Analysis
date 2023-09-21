@@ -29,9 +29,9 @@ Businesses constantly mine information from a vast amount of unstructured data, 
 
 Businesses must be quick to respond to potential crises or market trends in today's fast-changing landscape. Marketers rely on sentiment analysis software to learn what customers feel about the company's brand, products, and services in real time and take immediate actions based on their findings. They can configure the software to send alerts when negative sentiments are detected for specific keywords.
 
-What are sentiment analysis use cases?
-Businesses use sentiment analysis to derive intelligence and form actionable plans in different areas.
+**What are sentiment analysis use cases?**
+
+****Businesses use sentiment analysis to derive intelligence and form actionable plans in different areas.********
 
 **Improve customer service**
-
 Customer support teams use sentiment analysis tools to personalize responses based on the mood of the conversation. Matters with urgency are spotted by artificial intelligence (AI)–based chatbots with sentiment analysis capability and escalated to the support personnel.
