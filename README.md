@@ -4,7 +4,7 @@
 
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. 
 
-#**Why is sentiment analysis important?**
+**Why is sentiment analysis important?**
 
 Sentiment analysis, also known as opinion mining, is an important business intelligence tool that helps companies improve their products and services. We give some benefits of sentiment analysis below.
 
@@ -31,7 +31,7 @@ Businesses must be quick to respond to potential crises or market trends in toda
 
 **What are sentiment analysis use cases?**
 
-****Businesses use sentiment analysis to derive intelligence and form actionable plans in different areas.********
+Businesses use sentiment analysis to derive intelligence and form actionable plans in different areas.
 
 **Improve customer service**
 Customer support teams use sentiment analysis tools to personalize responses based on the mood of the conversation. Matters with urgency are spotted by artificial intelligence (AI)–based chatbots with sentiment analysis capability and escalated to the support personnel.
