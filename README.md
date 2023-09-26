@@ -10,7 +10,7 @@
 
 **Provide objective insights**
 
->Businesses can avoid personal bias associated with human reviewers by using artificial intelligence (AI)–based sentiment analysis tools. As a result, companies get consistent and objective results when analyzing customers’ opinions.
+>Businesses can avoid personal bias associated with human reviewers by using artificial intelligence (AI)–based sentiment analysis tools. As a result, companies get consistent and objective results when >analyzing customers’ opinions.
 
 For example, consider the following sentence: 
 
