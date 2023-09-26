@@ -12,10 +12,10 @@
 
 >Businesses can avoid personal bias associated with human reviewers by using artificial intelligence (AI)–based sentiment analysis tools. As a result, companies get consistent and objective results when >analyzing customers’ opinions.
 
-For example, consider the following sentence: 
+>For example, consider the following sentence: 
 
 I'm amazed by the speed of the processor but disappointed that it heats up quickly. 
-Marketers might dismiss the discouraging part of the review and be positively biased towards the processor's performance. However, accurate sentiment analysis tools sort and classify text to pick up emotions objectively.
+Marketers might dismiss the discouraging part of the review and be positively biased towards the processor's performance. However, accurate sentiment analysis tools sort and classify text to pick up emotions >objectively.
 
 **Build better products and services**
 
