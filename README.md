@@ -1,4 +1,4 @@
-# Code_Clause-Task-02__Sentiment-Analysis
+# Twitter-Sentiment-Analysis
 
 **What is Sentiment Analysis?**
 
