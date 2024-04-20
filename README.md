@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# IMDB-Sentiment-Analysis
 
 **What is Sentiment Analysis?**
 
